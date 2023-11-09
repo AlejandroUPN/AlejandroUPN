@@ -1,11 +1,14 @@
 ### Hi there 👋
-Acerca de mí
+¡Bienvenido a mi rincón virtual!
+
+## Acerca de mí
 Soy **Alejandro Cajo Mejia**, un estudiante de Ingeniería de Sistemas en la Universidad Privada del Norte (UPN) en Cajamarca, Perú. Estoy emocionado por sumergirme en el fascinante mundo de la tecnología.
 
-¿Qué estoy estudiando?
+## ¿Qué estoy estudiando?
 Actualmente estoy explorando los fundamentos de la ingeniería de sistemas, aprendiendo sobre algoritmos, programación, bases de datos y más. Mi pasión por resolver problemas y crear soluciones innovadoras impulsa mi viaje académico
 
-Objetivos
+
+## Objetivos
 Mi objetivo a corto plazo es absorber tanto conocimiento como sea posible durante mi primer año en la universidad. A largo plazo, aspiro a contribuir al desarrollo de soluciones tecnológicas significativas.
 <!--
 **AlejandroUPN/AlejandroUPN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
